@@ -1,0 +1,16 @@
+PODS:
+  - WMRCCommon (0.1.0)
+
+DEPENDENCIES:
+  - WMRCCommon (from `../`)
+
+EXTERNAL SOURCES:
+  WMRCCommon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WMRCCommon: 3d0f7ae555fdff7f09ebb55971f258f7a453fe8b
+
+PODFILE CHECKSUM: 1198acee86d0c7857ca98f6d44d3f55ba4c50290
+
+COCOAPODS: 1.7.0.beta.2
